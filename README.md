@@ -3,10 +3,10 @@
 
 | Name | GitHub Handle | Seneca Email | Role |
 |-----|--------------|--------------|------|
-| Navish | @navish-username | navish@myseneca.ca | Back-End Developer |
-| Gurjeet Singh Sodhi | @gurjeet-username | gurjeet@myseneca.ca | Front-End Developer |
-| Minhaz Abedin | @minhaz-username | minhaz@myseneca.ca | Product Manager |
-| Rohith Haridas | @rohith-username | rohith@myseneca.ca | Database Specialist |
+| Navish | Navish7 | navish@myseneca.ca | Back-End Developer |
+| Gurjeet Singh Sodhi | gssodhi | gurjeet@myseneca.ca | Front-End Developer |
+| Minhaz Abedin | minhazabedin53 | minhaz@myseneca.ca | Product Manager |
+| Rohith Haridas | rharidas2 | rohith@myseneca.ca | Database Specialist |
 
 ## Project Overview
 
