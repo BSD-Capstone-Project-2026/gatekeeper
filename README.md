@@ -1,4 +1,4 @@
-# gatekeeper
+# Gatekeeper
 ## Team Members
 
 | Name | GitHub Handle | Seneca Email | Role |
